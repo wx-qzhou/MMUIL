@@ -12,11 +12,16 @@ Citing https://github.com/AndyJZhao/NSHE.
 ## Usage
 
 ```python
+1) Feature Embed
 python Name_vec.py
 python Create_Graph.py  
 python Deepwalk.py
 cd ./NSHE/src python train.py
+
+2) fstw
 python GAN_MMUIL_fstw.py
+
+2) dblp
 python GAN_MMUIL_dblp.py
 python Multi-platform_results.py
 ```
