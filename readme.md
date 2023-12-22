@@ -15,8 +15,10 @@ Citing https://github.com/AndyJZhao/NSHE.
 python Name_vec.py
 python Create_Graph.py  
 python Deepwalk.py
-cd ./NSHE/src
-python train.py
+cd ./NSHE/src python train.py
+python GAN_MMUIL_fstw.py
+python GAN_MMUIL_dblp.py
+python Multi-platform_results.py
 ```
 
 ## Citation
