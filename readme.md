@@ -6,8 +6,8 @@ We have shared all the code related to this research.
 Citing https://github.com/AndyJZhao/NSHE.  
 
 ## Main packages
-torch < 1.8  
-python <= 3.7.5  
+1.0 < torch < 1.8  
+3.5 < python <= 3.7.5  
 
 ## Usage
 
