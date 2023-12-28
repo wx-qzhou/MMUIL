@@ -14,7 +14,6 @@ Citing https://github.com/AndyJZhao/NSHE.
 ```python
 1) Feature Embed
 python Name_vec.py
-python Create_Graph.py  
 python Deepwalk.py
 cd ./NSHE/src python train.py
 
