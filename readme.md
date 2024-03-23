@@ -32,7 +32,8 @@ MMUIL: enhancing multi-platform user identity linkage with multi-information
   author={Qian, Zhou and Yihan, Hei and Wei, Chen and Shangfei, Zheng and Lei, Zhao},
   booktitle={KAIS}, 
   title={MMUIL: enhancing multi-platform user identity linkage with multi-information}, 
-  year={2024}
+  year={2024},
+  doi={10.1007/s10115-024-02088-5}
 }
 ```
 
