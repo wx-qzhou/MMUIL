@@ -28,7 +28,7 @@ python Multi-platform_results.py
 ## Citation
 ```bibtex
 MMUIL: enhancing multi-platform user identity linkage with multi-information
-@INPROCEEDINGS{9590332,
+@Article{9590332,
   author={Qian, Zhou and Yihan, Hei and Wei, Chen and Shangfei, Zheng and Lei, Zhao},
   booktitle={KAIS}, 
   title={MMUIL: enhancing multi-platform user identity linkage with multi-information}, 
