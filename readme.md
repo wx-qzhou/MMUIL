@@ -33,6 +33,7 @@ MMUIL: enhancing multi-platform user identity linkage with multi-information
   booktitle={KAIS}, 
   title={MMUIL: enhancing multi-platform user identity linkage with multi-information}, 
   year={2024}
+}
 ```
 
 
