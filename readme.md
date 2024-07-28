@@ -25,6 +25,10 @@ python GAN_MMUIL_dblp.py
 python Multi-platform_results.py
 ```
 
+```
+Please note that in Table 7, the correct unit should be seconds (s). We apologize for the mistake in the current version.
+```
+
 ## Citation
 ```bibtex
 MMUIL: enhancing multi-platform user identity linkage with multi-information
