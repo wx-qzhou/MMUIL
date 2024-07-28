@@ -26,7 +26,7 @@ python Multi-platform_results.py
 ```
 
 ```
-Please note that in Table 7, the correct unit should be seconds (s). We apologize for the mistake in the current version.
+Please note that in Table 7 of our article, the correct unit should be seconds (s). We apologize for the mistake in the current version.
 ```
 
 ## Citation
