@@ -1,5 +1,5 @@
 # MMUIL 
-Implementation of the study proposed in the paper <a href=["pass"](https://dl.acm.org/doi/10.1007/s10115-024-02088-5)>MMUIL: Enhancing Multi-Platform User Identity Linkage with Multi-Information</a>
+Implementation of the study proposed in the paper <a href=["MMUIL: Enhancing Multi-Platform User Identity Linkage with Multi-Information"](https://dl.acm.org/doi/10.1007/s10115-024-02088-5)></a>
 
 We have shared all the code related to this research. 
 
